@@ -1,2 +1,2 @@
 # happy-branching
-Play with brances
+Play with branches
